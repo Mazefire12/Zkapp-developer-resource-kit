@@ -1,7 +1,7 @@
-README.md
 zkApp Developer Resource Kit
-This repo contains all official and community-created resource related to zkApp development. The resources gathered here help new beginner to intermediate level developers learn more about zkApps, how to build zkApps, and how to contribute to the Mina ecosystem.
 
+This repo contains all official and community-created resource related to zkApp development. The resources gathered here help new beginner to intermediate level developers learn more about zkApps, how to build zkApps, and how to contribute to the Mina ecosystem
+.
 New to zkApps? Start here!
 We recommend that you:
 
@@ -9,18 +9,30 @@ Read the official docs below
 Watch the "Intro to SnarkyJS and Snapps with Mina" recording
 Create an example project: https://github.com/o1-labs/zkapp-cli
 Join the #zkapp-developers channel on Discord where you can post questions, join discussions, and meet other zkApp developers.
+
+
 List of zkApp Resources
 Official Documentation
-zkApps docs overview
-How zkApp work
-How to write a zkApp
-SnarkyJS API reference
+
+https://docs.minaprotocol.com/en/zkapps
+https://docs.minaprotocol.com/en/zkapps/how-zkapps-work
+https://docs.minaprotocol.com/en/zkapps/how-to-write-a-zkapp
+https://bit.ly/3e0kkxu
+
 Official Videos
-Zero Knolwedge Smart Contracts, zkApp
+
+https://www.youtube.com/watch?v=H_JQjPDwAH0
+
+
 Workshop, Bootcamp, and Conference Recordings
+
 Illumninate: Genesis Summit, June 2021 - zkApp Architecture & Progress
-Video Recording
+
+https://www.youtube.com/watch?v=AolaaEFsBY4
+
 ZKHack Workshop, Dec 2021 - Intro to SnarkyJS and zkApps with Mina
+
+KHack Workshop, Dec 2021 - Intro to SnarkyJS and zkApps with Mina
 Video Recording
 Slides
 zkApps Bootcamp, Dec 2021 - Intro & Session #1
@@ -39,3 +51,5 @@ If you notice a missing resource or want to create your own resource, feel free 
 If you want to share your work and build a snapp, add it here to the community built zkApp directory or check out other snapps at zkApps For Mina: https://zkappsformina.com/submit-a-zkapp.
 
 If you have feedback or ideas, post it here on Mina Research
+
+
